@@ -1,0 +1,2 @@
+# NexusBot
+NexusNetwork.net
