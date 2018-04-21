@@ -1,14 +1,14 @@
 (
- "name": "Test"
- "description": "Test",
+ "name": "NexusBot"
+ "description": "NexusNetwork.net",
  "version": "0.0.0",
- "main": "bot.js",
+ "main": "bot.js",  NexusBot
  "scripts": {
    "start": "node bot.js"
    
  },
  "dependencies": {
    "discord.js": "11.1.0",
-   "request": "2.81.0",
+   "request": "2.81.0",  OPTIONAL
  }
 } 
